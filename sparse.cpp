@@ -1,4 +1,4 @@
-
+//sparse matrix using array
 #include<stdio.h> 
 
 int main() 
@@ -40,7 +40,7 @@ int main()
 		for (int j=0; j<size; j++) 
 			printf("%d ", compactMatrix[i][j]); 
 
-		
+		printf("\n");
 	} 
-	 
+	return 0; 
 } 
