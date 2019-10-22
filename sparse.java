@@ -50,6 +50,7 @@ class GFG
 			{ 
 				System.out.printf("%d ", compactMatrix[i][j]); 
 			} 
+			System.out.printf("\n ");
 			 
 		} 
 	} 
